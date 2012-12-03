@@ -1,0 +1,8 @@
+div#anatips_tip { border: 1px solid white; 
+	visibility: hidden; background-color: Silver; color:white; position: absolute; z-index: 100;
+	padding: 3px; width:185px;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 8pt;
+	opacity: 0.9 }
+	
+
+
